@@ -1,0 +1,25 @@
+.hand{
+	float:left;
+	height:190px;
+	width:320px;
+	margin-right:20px;
+	margin-top:30px;
+	cursor:pointer;
+}
+.choose{
+	font-family:'Î¢ÈíÑÅºÚ';
+	font-size:16px;
+	}
+.hand a{
+	display:block;
+	background-image: url(../images/pic1.png);
+	background-repeat:no-repeat;
+	width:320px;
+	height:190px;
+	font-size:20px;
+	color:white;
+	text-decoration:none;
+	font-family:'Î¢ÈíÑÅºÚ';
+	line-height:333px;
+	text-align:center;
+}
